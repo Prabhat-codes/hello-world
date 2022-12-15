@@ -39,7 +39,7 @@ const about = () => {
             </article>
           </div>
           <p>
-            I am a third-year B.Tech CSE student seeking a full-time position where I can apply my knowledge and skills for
+            I am a fourth-year B.Tech CSE student seeking a full-time position where I can apply my knowledge and skills for
             continuous improvement.
           </p>
           <p>I have broad experience in managerial skills and automation using Google Suite. I like writing
